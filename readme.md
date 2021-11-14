@@ -1,6 +1,6 @@
 # Laravel SPA Template
 
-This is laravel spa template to create CRUD.
+This is laravel spa template for CRUD.
 
 ## User List
 ![User List](./screenshot/user-list.png)
